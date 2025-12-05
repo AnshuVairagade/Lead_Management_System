@@ -11,6 +11,15 @@ A lead management system built with React, Django, and SQLAlchemy for creating, 
 - Track last updated time for every lead
 - Secure backend API for lead management
 
+
+## Working Screenshots
+<img width="2752" height="1536" alt="Gemini_Generated_Image_machq1machq1mach" src="https://github.com/user-attachments/assets/35eea7bc-121e-4a77-9ef1-4d69fc6348d2" />
+
+<img width="2752" height="1536" alt="Gemini_Generated_Image_68p6k868p6k868p6" src="https://github.com/user-attachments/assets/eec85af5-982f-4192-b74e-9e228224d2d5" />
+
+<img width="1344" height="768" alt="Gemini_Generated_Image_h1c5xch1c5xch1c5" src="https://github.com/user-attachments/assets/f6273255-c39a-454c-9be3-fbbcda063ece" />
+
+
 ## Tech Stack
 
 **Frontend**
@@ -50,11 +59,6 @@ The frontend communicates with the backend using REST endpoints. Lead data is st
 
 3. Start the React app : ```npm start```
 
-
-
-## Screenshots
-
-Add your dashboard screenshot here.
 
 ## Future Improvements
 
